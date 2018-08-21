@@ -1228,7 +1228,7 @@
     theme: portrait_hdpi
     
     
-    - name: Motorola Moto Z2 Play
+- name: Motorola Moto Z2 Play
   id: albus
   codenames:
     - albus
